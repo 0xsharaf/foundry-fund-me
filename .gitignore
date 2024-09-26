@@ -1,6 +1,8 @@
 # Compiler files
 cache/
 out/
+REAME.md/
+lib/
 
 # Ignores development broadcast logs
 !/broadcast
